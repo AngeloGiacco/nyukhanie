@@ -1,3 +1,3 @@
 ## Bitcoin Address Swapper
 
- ![Bitcoin Address Swapper](screenrecording.mov)
+ ![Bitcoin Address Swapper](screenrecording.gif)
