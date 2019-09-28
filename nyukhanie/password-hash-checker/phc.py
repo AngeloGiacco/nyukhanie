@@ -1,3 +1,8 @@
+"""
+author = Angelo Giacco
+INTENDED FOR EDUCATIONAL PURPOSES ONLY
+PASSWORD HASH CHECKER
+"""
 import hashlib,glob
 from threading import Thread
 def chomp(x):
