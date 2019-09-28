@@ -1,3 +1,8 @@
+"""
+author = Angelo Giacco
+INTENDED FOR EDUCATIONAL PURPOSES ONLY
+SELF REPLICATING CODE
+"""
 import os
 import datetime
 SIGNATURE = "THENK YOU VERY GRAZIE"
